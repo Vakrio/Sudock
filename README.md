@@ -16,7 +16,7 @@ Desktop
 
 Tablets
 ------------------------
-![Alt text](screenshots/tablets.jpg?raw=true "Tablets or Medium Screens")
+![Alt text](screenshots/tablet.jpg?raw=true "Tablets or Medium Screens")
 
 Mobile
 ------------------------
